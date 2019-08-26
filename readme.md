@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# Nginx Installer
+> A simple bash script to install Nginx on Ubuntu.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
