@@ -1,7 +1,7 @@
 # Nginx Installer
 > A simple bash script to install Nginx on Ubuntu.
 
-[![NPM Version][npm-image]][npm-url]
+[![NPM Version][npm-image]
 
 This script will automatically downloads and installs Nginx and configures UFW as well.
 ![](header.png)
